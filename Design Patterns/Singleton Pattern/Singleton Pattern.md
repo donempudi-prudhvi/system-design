@@ -29,6 +29,7 @@
 ```
 **Pros**:
 - Thread Safe 
+
 **Cons**:
 - Instance is created when the Config class is first initialized
 - if the class gets touched for some other reason before you need the instance.
